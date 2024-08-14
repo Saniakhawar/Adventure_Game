@@ -1,0 +1,23 @@
+{
+  "name": "sani_adventure_game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js" ,
+   "script": {
+    "adventure_game": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
